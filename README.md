@@ -1,14 +1,14 @@
 <div align="center">
 
-<img align="left" src="https://github.com/thebasillica/thebasillica/blob/a4ee972f48539bffd9423a53f1768e290847a9c3/Untitled1619_20260706104514.png" width="280">
+<img align="left" src="https://github.com/thebasillica/thebasillica/blob/2b9161d6bf3e39fcdc7c83d2f539b7c85c310a4b/Untitled1619_20260711204800.png" width="280">
 
 <div align="left">
 
-  ${\textsf{\color{#f5c684}leon}}$   ${\textsf{\color{#d98f5b}or}}$   ${\textsf{\color{#b04d35}matt}}$⠀    ${\textsf{\color{#a3c8d6}he}}$ ${\textsf{\color{#82aabf}/}}$ ${\textsf{\color{#567b99}him}}$⠀      
-${\textsf{\color{#9c4435}Rabbits.}}$    
-                           ${\textsf{\color{#73241c}They called us rabbits.}}$
+  ${\textsf{\color{#D4D4D4}leon}}$   ${\textsf{\color{#B0B0B0}or}}$   ${\textsf{\color{#828282}matt}}$⠀    ${\textsf{\color{#666666}he}}$ ${\textsf{\color{#4A4A4A}/}}$ ${\textsf{\color{#333333}him}}$⠀      
+${\textsf{\color{#424242}Don't struggle like that . .}}$    
+                           ${\textsf{\color{#525252}I will only love you more . .}}$
 
-  ![](https://komarev.com/ghpvc/?username=thebasillica&color=750e0e&&label=preachers)
+  ![](https://komarev.com/ghpvc/?username=thebasillica&color=000000&&label=preachers)
 
 
 wip links .
